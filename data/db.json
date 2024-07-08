@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "welcome to the jungle",
+      "body": "lorem ipsum",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Lights out and away we go",
+      "body": "lorem ipsum",
+      "author": "crofty",
+      "id": "2"
+    },
+    {
+      "title": "Games for work",
+      "body": "lorem ipsum",
+      "author": "Billam gates",
+      "id": "3"
+    },
+    {
+      "title": "I used to fantasize about being or kissing Skrillex",
+      "body": "I need to delete Twitter 'cause it gives me fucking mental illness",
+      "author": "FoodHouse",
+      "id": "4"
+    },
+    {
+      "id": "7a90",
+      "title": "tomcat",
+      "body": "hellcat",
+      "author": "crofty"
+    },
+    {
+      "id": "dc73",
+      "title": "tomcatwwww",
+      "body": "hellcat",
+      "author": "crofty"
+    },
+    {
+      "id": "91a7",
+      "title": "wwww",
+      "body": "wwwww",
+      "author": "Guest"
+    }
+  ]
+}
